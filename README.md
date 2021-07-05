@@ -17,8 +17,8 @@ Then he will be able to see his transactions represnted in a chart with the abil
 ![WhatsApp Image 2021-07-05 at 5 06 27 PM (2)](https://user-images.githubusercontent.com/55320747/124493487-f9851680-ddb5-11eb-80a6-0fb719a1f874.jpeg)
 
 The view in landscape mode is a little diffrent, as the user can switch between the chart and the transaction list 
-![WhatsApp Image 2021-07-05 at 5 06 27 PM (1)](https://user-images.githubusercontent.com/55320747/124493703-3c46ee80-ddb6-11eb-8ea9-5dd0189c9dce.jpeg)
-
+![WhatsApp Image 2021-07-05 at 5 06 27 PM (1)](https://user-images.githubusercontent.com/55320747/124494100-b6777300-ddb6-11eb-9913-a8244a2b3683.jpeg)
+--------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2021-07-05 at 5 06 27 PM](https://user-images.githubusercontent.com/55320747/124493717-3fda7580-ddb6-11eb-93c3-942f84dee365.jpeg)
 
 
